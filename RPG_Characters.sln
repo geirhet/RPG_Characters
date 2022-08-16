@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_Characters", "RPG_Characters\RPG_Characters.csproj", "{D49141B2-019A-4B5B-A8B4-0279CC32D024}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPG_Characters", "RPG_Characters\RPG_Characters.csproj", "{D49141B2-019A-4B5B-A8B4-0279CC32D024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_CharacterTests", "RPG_CharacterTests\RPG_CharacterTests.csproj", "{612F3CE3-8011-493F-B1DF-B4A3DB2DF4CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D49141B2-019A-4B5B-A8B4-0279CC32D024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D49141B2-019A-4B5B-A8B4-0279CC32D024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D49141B2-019A-4B5B-A8B4-0279CC32D024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612F3CE3-8011-493F-B1DF-B4A3DB2DF4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612F3CE3-8011-493F-B1DF-B4A3DB2DF4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612F3CE3-8011-493F-B1DF-B4A3DB2DF4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612F3CE3-8011-493F-B1DF-B4A3DB2DF4CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
